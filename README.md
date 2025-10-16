@@ -8,7 +8,7 @@
 
 The initial artifact for this submission was a package of files used in developing test cases for CS 320. This package was the final submission for that class and was completed in December of 2024. I chose to include this artifact in my portfolio because I felt that it was the most fleshed out piece of work that I had from a previous course that I could build upon. This artifact proved to be a basis for me in developing a final enhancement plan based on these initial classes and the structure of the information and methods. This resulted in the decision to create a full stack application for all three categories based loosely on these initial classes. The current initial artifact has yet to be improved as I realized during development for this stage that much of the class structure resembles the data model and intended schema for the information that will be help in the database. Since the intention is for the application to be a full stack application, a front end and framework had to be developed which was the focus of this first enhancement. By creating this front facing user interface and creating a full stack framework, I have made it easier to further improve on the artifact by translating the classes and methods to data models and routing methods that can later be used with a database to translate these classes into a practical application.
 
-<img src='images/ER Model.png' width='200px' height='200px'>
+<img src='images/ER Model.png' width='300px' height='200px'/>
   
 I did not fully meet the intended enhancement goals that I had set for this enhancement of translating the original classes into JavaScript as the resemblance to a data model made it more fitting for the second category enhancement. Instead, the focus became designing and developing a basic user side with elements to accept user input and further process queries or requests. Not all of this functionality was completed, in particular the design of the dropdown menu for the search component, but the ability to rapidly develop the artifact to this point was a large accomplishment. 
 
@@ -24,7 +24,7 @@ I faced a lot of challenges in deciding which parts of the stack to focus and wo
 
 Another challenge came in finding and using recommended technologies as some of them I have not been exposed to and so created a bit of a learning curve, however I was able to use references from the internet and previous coursework to adapt to this obstacle. 
 
-\[ Include image of application homepage after first enhancement \]
+<img src='images/milestone_one_final' width='300px' height='200px' />
 
 [View this Enhancement on Github](https://github.com/Krystal-G116/CS_499_Tracker/tree/milestone_one)
 
