@@ -24,7 +24,7 @@ I faced a lot of challenges in deciding which parts of the stack to focus and wo
 
 Another challenge came in finding and using recommended technologies as some of them I have not been exposed to and so created a bit of a learning curve, however I was able to use references from the internet and previous coursework to adapt to this obstacle. 
 
-<img src='images/milestone_one_final' width='300px' height='200px' />
+<img src='images/milestone_one_final.png' width='300px' height='200px' />
 
 [View this Enhancement on Github](https://github.com/Krystal-G116/CS_499_Tracker/tree/milestone_one)
 
